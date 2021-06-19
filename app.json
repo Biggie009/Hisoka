@@ -1,15 +1,15 @@
 {
-      "name": "FoundingTitanRobot",
+      "name": "Hisokamorou",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Eren"
+         "Hisoka"
       ],   
-  "logo":    "https://telegra.ph/file/ed5b77b9aa323a3abd08e.jpg",
- "repository": "https://github.com/sasukeuchiha912/ErenJaegerRobot",
+  
+ "repository": "https://https://github.com/Notorious222/Hisoka",
    "addons": [
       {
          "options": {
@@ -46,12 +46,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "ihaveenoughhate"
+         "value": "bigpunisher0"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah.",
          "required": true,
-         "value": "foundingtitansupport"
+         "value": "hisoka_support"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
@@ -74,7 +74,7 @@
          "required": true,
          "value": "-xyz"
       },
-      "ACKERMANS": {
+      "PROGENITORS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Eren support then keep the current ID's here at they are and add yours.",
          "required": false,
          "value": "1755728237 1352499461"
@@ -89,22 +89,22 @@
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
          "value": "True"
       },
-      "TITANSHIFTERS": {
+      "CONJURERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
          "value": " "
       },
-      "ROYALS": {
+      "MANIPULATORS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
          "value": ""
       }, 
-      "SCOUTS": {
+      "TRANSMUTERS": {
          "description": "A space separated list of user IDs who you wanna assign as scout users.",
          "required": false,
          "value": ""
       },
-      "GARRISONS": {
+      "ENANCERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
          "value": " "
