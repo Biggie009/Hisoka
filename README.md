@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/eeef5ddbe7f33338aa311.jpg">
+  
 </p>
 
  HisokaAmarouRobot
