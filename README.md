@@ -20,4 +20,4 @@ Hisoka is a simple bot for making your group management easier and cool.
 * Paul larsen and Saitama's Developers
 
 ## Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasukeuchiha912/FoundingTitanRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Notorious222/Hisoka)
